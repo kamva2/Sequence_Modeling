@@ -60,8 +60,6 @@ Key findings:
 ## Repository Structure
 
 - `notebooks/` → Main notebook
-- `src/` → Model and training code
-- `images/` → Generated plots and attention heatmaps
 - `report/` → Assignment and final report
 
 ---
