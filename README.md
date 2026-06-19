@@ -60,7 +60,7 @@ Key findings:
 ## Repository Structure
 
 - `notebooks/` → Main notebook
-- `report/` → Assignment and final report
+- `report/` → final report
 
 ---
 
